@@ -13,7 +13,14 @@ Sertifikat yang saya dapatkan
 - [Dasar Pemograman Web](https://www.dicoding.com/certificates/6RPNW19E9P2M)
 - [Belajar Dasar AWS Cloud](https://www.dicoding.com/certificates/1RXY6L789ZVM)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jonatan-simbolon-79615827b/)ku ya
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jonatan-simbolon-79615827b/) ku ya
+
+<p align="left">
+<a href="https://github.com/Jooooo05">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jooooo05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jooooo05&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **Jooooo05/Jooooo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
